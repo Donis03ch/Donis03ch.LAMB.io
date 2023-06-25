@@ -15,8 +15,6 @@
   
   .grid-container {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(100px 2fr 1fr));
-      grid-template-rows: repeat(50px auto auto 50px );
       grid-gap: 1rem;
       grid-template-areas: 'header header header'
       'nav nav nav'
@@ -223,8 +221,6 @@
       }
       .grid-container {
         display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(2fr 1fr));
-        grid-template-rows: repeat(50px auto auto 50px );
         grid-gap: 1rem;
         grid-template-areas: 'header header'
         'nav nav'
