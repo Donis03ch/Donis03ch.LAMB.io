@@ -130,13 +130,10 @@
     }
   
     .action_btn:hover {
-      scale: 1.05;
       color: #fff;
     }
   
-    .action_btn:active {
-      scale: 0.95;
-    }
+
   
   /*Dropdown menu*/
   
