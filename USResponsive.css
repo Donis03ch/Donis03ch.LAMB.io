@@ -94,6 +94,10 @@ p {
       color: #fff;
       text-decoration: none;
     }
+
+    .ex_links:hover {
+      font-size: 1.5rem;
+    }
   
     /*navbar*/
   
@@ -299,7 +303,7 @@ p {
           margin: 0 auto;
           display: flex;
           align-items: center;
-          justify-content: space-between;
+          justify-content: center;
         }
 
         .excercise .ex_links {
