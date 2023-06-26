@@ -24,7 +24,7 @@
   
   }
   header {
-      background-color: rgb(46, 169, 245);
+      background-color: #006494;
       position: relative;
       padding: 0.2rem;
       grid-area: header;
@@ -33,7 +33,7 @@
     }
     
     nav {
-      background-color: rgb(46, 169, 245);
+      background-color: #006494;
   
       grid-area: nav;
       grid-area: nav;
@@ -41,7 +41,7 @@
     }
   
     main {
-      background-color: rgb(80, 174, 247);
+      background-color: #00A6FB;
   
       grid-area: main;
       grid-area: main;
@@ -49,12 +49,12 @@
     }
     
     aside {
-      background-color: rgb(80, 174, 247);
+      background-color: #00A6FB;
   display: none;
     }
     
     footer {
-      background-color: rgb(128, 128, 128);
+      background-color: rgb(110, 110, 110);
   
       grid-area: footer;
       grid-area: footer;
